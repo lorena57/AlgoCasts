@@ -10,6 +10,7 @@ function reverse(str) {
   return str.split('').reverse().join('');
 }
 
+//Function notes
 //split('')
 // ['A', 'B, "C']
 
